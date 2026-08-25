@@ -21,7 +21,7 @@ This package is the reference example of the Auth-Kit plugin model. It uses the
 
 - PHP `^8.3`
 - `gusmanwidodo/auth-kit` `^0.1`
-- Laravel 11 or 12
+- Laravel 12
 
 ## Installation
 
